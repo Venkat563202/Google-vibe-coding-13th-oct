@@ -1,0 +1,6 @@
+{
+  "name": "Biryani Wars — Hyderabad",
+  "description": "Friends can't decide where to eat biryani? Settle the debate with live voting rooms, distance filters, Hyderabadi street slang alerts, and dramatic winner reveals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
